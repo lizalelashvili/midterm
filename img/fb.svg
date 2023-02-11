@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Component_12_2" data-name="Component 12 – 2" opacity="0.6">
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="24" height="24" fill="rgba(255,255,255,0)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(2 2)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="Path_12" data-name="Path 12" d="M16.441,0H3.559A3.563,3.563,0,0,0,0,3.559V16.441A3.563,3.563,0,0,0,3.559,20H10.2V12.6H8V10.047h2.2V8.166a3.088,3.088,0,0,1,3.285-3.39,18.149,18.149,0,0,1,1.969.1V7.159H14.1c-1.061,0-1.264.5-1.264,1.241v1.631h2.525l-.339,2.553H12.841V20h3.6A3.563,3.563,0,0,0,20,16.441V3.559A3.563,3.563,0,0,0,16.441,0Z" fill="#222"/>
+      </g>
+    </g>
+  </g>
+</svg>
