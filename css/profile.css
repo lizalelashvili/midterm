@@ -1,0 +1,12 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+.black tr{
+    background-color: #F2F2F2;
+    border-radius: 12px;
+}
+tr:hover{
+    color: #FF2288;
+}
