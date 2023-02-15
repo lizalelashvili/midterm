@@ -1,11 +1,27 @@
-* {
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-  }
-.black tr{
+table{
+    width: 80%;
+    font-family: 'Avenir Heavy';
+}
+tr{
+    height: 72px;
+    color: #AFAFAF;
+    font-size: 16px;
+    line-height: 21px;
+}
+th{
+    text-align: center;
+    font-size: 18px;
+    color: #111111;
+    line-height: 24px;
+    
+}
+td{
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+}
+tbody>:nth-child(5){
     background-color: #F2F2F2;
-    border-radius: 12px;
+    color: #222222;
 }
 tr:hover{
     color: #FF2288;
