@@ -1,27 +1,25 @@
 @media (max-width: 1024px) {
-    .following{
-        display: none;
-    }
-    .menuitems{
-        display: none;
-    }
-    .hide{
-        display: none;
-    }
-   input{
+  .following {
+    display: none;
+  }
+  .menuitems {
+    display: none;
+  }
+  .hide {
+    display: none;
+  }
+  input {
     max-width: 200px;
-   }
-   .images-section{
+  }
+  .images-section {
     grid-template-columns: 1fr 1fr 1fr;
-   }
-   aside{
+  }
+  aside {
     height: 92px;
-   }
-   table{
+  }
+  table {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-   }
-   
-
+  }
 }
